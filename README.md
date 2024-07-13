@@ -31,7 +31,7 @@ The Memory App is a simple web application built using Flask for the backend. It
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://token@github.com/'{your username}'/Memory_by_js.git
+   git clone https://github.com/AbdallahM19/Memory_by_js.git
    cd Memory_by_js
    ```
 
