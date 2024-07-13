@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "id": 1,
+        "time": "Saturday July 10:16:49.465494 AM 13-07-2024",
+        "memory": "Murphy's Law (Original Form):\n\n\"Anything that can go wrong, will go wrong.\""
+    },
+    {
+        "id": 2,
+        "time": "Saturday July 10:17:25.368264 AM 13-07-2024",
+        "memory": "Murphy's Law of Thermodynamics:\n\n\"Things get worse under pressure.\""
+    },
+    {
+        "id": 3,
+        "time": "Saturday July 10:17:41.831588 AM 13-07-2024",
+        "memory": "\nMurphy's Law of Communication:\n\n\"If you explain something so clearly that nobody can misunderstand, somebody will.\""
+    }
+]

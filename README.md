@@ -2,6 +2,18 @@
 
 The Memory App is a simple web application built using Flask for the backend. It allows users to save memories and view them in a list format with options to delete each memory.
 
+## Screenshots
+
+![Home Page](./readmeimgs/bandicam%202024-07-12%2019-22-35-397.jpg)
+*Home Page*
+
+![Home Page](./readmeimgs/bandicam%202024-07-12%2019-22-40-505.jpg)
+*Home Page light mode*
+
+![save some memory](./readmeimgs/bandicam%202024-07-13%2010-18-21-781.jpg)
+
+![Profile](./readmeimgs/bandicam%202024-07-13%2010-18-37-410.jpg)
+
 ## Features
 
 - **Save Memories:** Users can enter text memories and save them to a local JSON file using the Flask backend.
